@@ -1,4 +1,4 @@
-# Duplicate Image Remover
+# Analyzing .csv files
 
 ![Project Image](https://files.realpython.com/media/Python-Text-Parsing_Watermarked.5ac48b25acf2.jpg)
 
